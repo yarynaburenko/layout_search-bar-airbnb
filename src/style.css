@@ -1,1 +1,13 @@
-/* add styles here */
+/* #region page */
+html {
+  font-family: Poppins, sans-serif;
+  font-size: 16px;
+  line-height: 22.4px;
+  color: #FFF;
+}
+
+body {
+  margin: 0;
+}
+
+/* #endregion */
